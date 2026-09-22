@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "023e4308f8b5711002f804f6",
+  "owner": "ubwphwap",
+  "repo": "page-2976d9358e251479494e43dd",
+  "title": "蝌蚪佬养殖场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2976d9358e251479494e43dd",
+      "a": "蝌蚪佬养殖场",
+      "b": "稳定全球clash加速器",
+      "entity": "蝌蚪佬养殖场",
+      "brand": "蝌蚪佬养殖场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "54c05e1def7a152eba87e452142058b18648c970e5f42a6893ddaa8f22c8e2c7",
+      "content": {
+        "primary_entity": "蝌蚪佬养殖场",
+        "keyword1": "蝌蚪佬养殖场",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、Android 与 iOS，各平台均有对应发行版本可选。",
+          "AI_CLIENTS_TITLE": "按设备选择 Clash 客户端",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选套餐，下载对应 Clash 客户端导入订阅即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上全球节点",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付价格分别为 ¥15、¥35 与 ¥85，流量与设备支持随档位提升。Clash 订阅可导入 Windows、macOS、Android 与 iOS 客户端，旗舰版与团队版配备 IPLC 专线与 VIP 高带宽节点，适合多设备与高流量场景。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度整理选购要点。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 流量与 3 台设备，适合单人或双设备轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月含 300GB 流量与 5 台设备，IPLC 专线更适合游戏与流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月含 1000GB 流量与 20 台设备，适合多人共用与高带宽需求。",
+          "AI_FEATURE_TITLE_1": "按月流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_GUIDE_INTRO": "先确认套餐与适配条件，再在客户端中完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "蝌蚪佬养殖场提供多档 Clash 订阅套餐，按流量与设备数量区分，覆盖日常浏览、流媒体与游戏等场景。选择合适档位后，在对应客户端导入订阅即可连接全球节点。",
+          "AI_HERO_SUBTITLE": "多档 Clash 套餐，按设备选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备划分",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏加速",
+          "AI_HIGHLIGHT_3": "Clash 订阅适配主流客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备，旗舰版 ¥35/月含 300GB 与 5 台设备，团队版 ¥85/月含 1000GB 与 20 台设备，按年付分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版与团队版之间确定档位。",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端适配情况，确认订阅所需的最低版本要求。",
+          "AI_STEP_TEXT_3": "依照所用 Clash 客户端文档导入订阅地址，完成节点加载与连接测试。",
+          "AI_STEP_TITLE_1": "选择套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "蝌蚪佬养殖场套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐周期。",
+          "AI_FAQ_QUESTION_1": "套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 流量、3 台设备、普通线路；旗舰版 300GB 流量、5 台设备、含 IPLC 专线与流媒体解锁；团队版 1000GB 流量、20 台设备、VIP 高带宽节点。",
+          "AI_FAQ_QUESTION_2": "支持多少台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备同时在线。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "选择合适的客户端，将订阅链接粘贴到客户端的订阅导入位置，保存后更新节点列表即可。具体步骤参考客户端文档。",
+          "AI_FAQ_QUESTION_4": "年付是否更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比按月支付更优惠，可按长期需求选择。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "流量用尽后，可根据需要升级到更高流量套餐，或等待下个计费周期流量重置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lynnnn.cn",
+    "host": "lynnnn.cn"
+  },
+  "file_hashes": {
+    "index.html": "9a2c6d638b4469697f32970f8338aa4e02c2ba273904ca5a956a8da28e75e327",
+    "sitemap.xml": "435429159035093c147961f3e0690da3d3fd101e772824f784ae108594d18921",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7a385d7ecc037851aa86d2f0fc510e8920753de91445d478c86f44f7bfcce188",
+    "robots.txt": "8c5ced406f214dc5307d450a6e41c21d7f6a19b123ca2f2f60c6cf5e946e3954",
+    "35fa02b0a1bd654fe46fe2ffc16eddc1.txt": "a45b72750312906081f23d1ac5818e772c5ecee6c7deb4856a8e2ccbfc697f05"
+  },
+  "revision": "bd266aaa19a791cca72c0718b166abcf47f1cdac8e907c4d7d6a85cd48a3dc0c"
+}
